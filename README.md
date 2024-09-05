@@ -33,13 +33,16 @@ This is a MERN stack CRUD application using React with Vite for the frontend and
    git clone https://github.com/yourusername/MERN-product-crud.git
    
 2. Navigate to the project directory:
+   ```bash
    cd backend
    npm install
 
-3. Install backend dependencies:
+4. Install backend dependencies:
+   ```bash
    cd backend
    npm install
 
-4. Install frontend dependencies:
+6. Install frontend dependencies:
+   ```bash
    cd frontend
    npm run dev
